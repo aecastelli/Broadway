@@ -4,7 +4,7 @@ body {
 }
 
 #home {
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url(images/the-flatiron-building.png);
   background-size: cover;
 }
 
@@ -44,7 +44,7 @@ p {
 }
 
 #ny {
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url(images/the-flatiron-building.png);
 }
 
 #copynav p {
