@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#home {
+  background-image: url(C:/Users/Michael/Documents/Amanda/Broadway/resources/images/the-flatiron-building.png);
+  background-size: cover;
+}
+
+h1,
+#home p,
+#ny,
+#bottom p,
+#copynav p {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+#home p {
+  font-size: 18px;
+}
+
+h1,
+#process h2,
+h3,
+#ny {
+  font-weight: bold;
+}
+
+#process h2 {
+  font-size 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#ny {
+  background-image: url(C:/Users/Michael/Documents/Amanda/Broadway/resources/images/the-flatiron-building.png);
+}
+
+#copynav p {
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copyright {
+  font-size: 11px;
+  background-color: dimgray;
+}
