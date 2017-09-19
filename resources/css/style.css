@@ -4,7 +4,7 @@ body {
 }
 
 #home {
-  background-image: url(C:/Users/Michael/Documents/Amanda/Broadway/resources/images/the-flatiron-building.png);
+  background-image: url(Broadway/resources/images/the-flatiron-building.png);
   background-size: cover;
 }
 
@@ -44,7 +44,7 @@ p {
 }
 
 #ny {
-  background-image: url(C:/Users/Michael/Documents/Amanda/Broadway/resources/images/the-flatiron-building.png);
+  background-image: url(Broadway/resources/images/the-flatiron-building.png);
 }
 
 #copynav p {
